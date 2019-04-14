@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24165" started-at="2019-04-10T17:03:35Z" finished-at="2019-04-10T17:03:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24165" started-at="2019-04-10T17:03:35Z" finished-at="2019-04-10T17:03:59Z">
+      <class name="day5.SwitchBetweenTabsConcept">
+        <test-method status="PASS" signature="switchTabs()[pri:0, instance:day5.SwitchBetweenTabsConcept@c46bcd4]" name="switchTabs" duration-ms="24135" started-at="2019-04-10T17:03:35Z" finished-at="2019-04-10T17:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchTabs -->
+      </class> <!-- day5.SwitchBetweenTabsConcept -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Tutorial">
+  <test name="TestNG feature test">
+  		<parameter name="uname" value="ashu00713"/>
+  		<parameter name="pass" value="oct@31"/>
+  	<classes>
+      <class name="day16.TestNGParameterizationConcept"/>
+     </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->
